@@ -1,2 +1,6 @@
-# emaione2.github.io
-Hosting Among-AIs Web App
+# AmongAis-WebApp
+[Smart App 2020-21]
+Collaborators
+Michele Agostini
+Luca Peretti
+Edoardo Maione
